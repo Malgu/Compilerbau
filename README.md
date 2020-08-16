@@ -2,14 +2,17 @@
 This project consists of a compilation program for a calculator.
 ## Compiling and running the calculator
 commands for running:
+
 "make all"
 
 runs lex and yacc to create the calculator
 
 "make clear"
+
 removes the files produced from lex and yacc
 
 "calc"
+
 runs the calculator
 ## Example calculations
 fib(13)\*gd(43)E
